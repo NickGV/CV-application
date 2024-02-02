@@ -1,0 +1,15 @@
+.submit-button {
+  background-color: #646262;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  transition: background-color 0.3s;
+}
+
+/* Estilo al pasar el mouse */
+.submit-button:hover {
+  background-color: #848484;
+}
